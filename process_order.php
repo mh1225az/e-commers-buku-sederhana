@@ -3,7 +3,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $productName = $_POST['productName'];
     $price = $_POST['price'];
     $customerName = $_POST['fadil'];
-    $customerPhone = $_POST['+6281245794315'];
+    $customerPhone = $_POST['+6281245794315']; //isi pake nomornya pembeli
 
     
 
